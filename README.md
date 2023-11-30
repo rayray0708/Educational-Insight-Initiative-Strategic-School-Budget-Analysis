@@ -1,5 +1,5 @@
 ![Illustration of strategic budgeting](https://media.licdn.com/dms/image/D4D12AQHjnp8H542LQg/article-cover_image-shrink_423_752/0/1693976745162?e=1704326400&v=beta&t=q68cvRcywg09W39GuhKW4yn8_roFDN_1xE6QpEIg7Fc)
-# Pandas_challenge
+# Strategic-School-Budgeting
 ## Description
 In this challenge, I'm tasked with helping the school board and mayor make strategic decisions regarding future school budgets and priorities. I have been given access to every student's maths and reading scores, as well as various information on the schools they attend. My task is to aggregate the data to showcase obvious trends in school performance. 
 ## Usage
